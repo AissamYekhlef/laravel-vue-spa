@@ -13,7 +13,7 @@
 ## Features
 
 - Laravel 8
-- Vue + VueRouter + Vuex + VueI18n + ESlint
+- Vue + VueRouter + Vuex + VueI18n + ESlint + vuetify
 - Pages with dynamic import and custom layouts
 - Login, register, email verification and password reset
 - Authentication with JWT
